@@ -1,4 +1,4 @@
-Step 1: Clone the directory from {github_repository here}
+Step 1: Clone the directory from https://github.com/shubh1905/dissertation_UOE.git
 
 Step 2: Goto Data folder and type the command: --> bash dowload-data.sh {Dataset_Name}
 	{Dataset_Name} can take values from: Wiki10-31K, Eurlex-4K, AmazonCat-13K, Wiki-500K
